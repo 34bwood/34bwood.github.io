@@ -6,8 +6,8 @@
 #
 layout: frontpage
 header:
-    image: /sd_header01.jpg
-    background-color:  "#304558"
+    image: /sd_header02.jpg
+    background-color:  "#000000"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 widget1:

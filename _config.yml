@@ -39,7 +39,7 @@ baseurl: ''
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 # urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg: 'https://34bwood.github.io/images/'
+urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
