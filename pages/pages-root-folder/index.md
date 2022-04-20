@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-    image: /sd_header07.jpg
+    image: /sd_header08.jpg
     background-color:  "#000000"
     caption: This is a caption for the header image with link
 widget1:
