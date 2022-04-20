@@ -6,10 +6,9 @@
 #
 layout: frontpage
 header:
-    image: /sd_header02.jpg
+    image: /sd_header04.jpg
     background-color:  "#000000"
     caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'

@@ -10,7 +10,7 @@ tags:
     - background color
     - header
 header:
-    image: /sd_header02.jpg
+    image: /sd_header04.jpg
     background-color:  "#000000"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
